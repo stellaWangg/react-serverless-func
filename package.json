@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "netlify-cli": "^3.4.5"
+    "netlify-cli": "^3.4.5",
+    "@babel/plugin-transform-private-property-in-object": "^7.21.11"
   }
 }

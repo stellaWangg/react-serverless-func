@@ -14,9 +14,13 @@ const Product = () => {
     } catch (error) {}
     setLoading(false);
   };
-  useEffect(() => {
-    fetchData();
-  }, []);
+  useEffect(
+    () => {
+      fetchData();
+    },
+    // eslint-disable-next-line
+    []
+  );
 
   if (loading) {
     return (
