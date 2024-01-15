@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Cork",
+			"country": {
+				"code": "IE",
+				"name": "Ireland"
+			},
+			"subdivision": {
+				"code": "M",
+				"name": "Munster"
+			},
+			"timezone": "Europe/Dublin",
+			"latitude": 51.8755,
+			"longitude": -8.493
+		},
+		"timestamp": 1705345414508
+	}
+}
